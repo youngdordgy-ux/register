@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "youngd",
+    "email": "YOUR-EMAIL@gmail.com"
+  },
+  "domain": "cassiusbot",
+  "subdomain": "cassiusbot",
+  "record": {
+    "CNAME": "cassius-trade-assist.lovable.app"
+  },
+  "description": "Cassius Trading Bot"
+}
